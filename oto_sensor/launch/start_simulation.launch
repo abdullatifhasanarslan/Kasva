@@ -1,0 +1,6 @@
+<launch>
+  <node name="assign_signs" pkg="oto_sensor" type="assign_signs.py"/>
+  <node name="detect_signs" pkg="oto_sensor" type="traffic_sign.py"/>
+</launch>
+
+

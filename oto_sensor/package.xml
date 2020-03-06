@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>oto_sensor</name>
+  <version>0.1.0</version>
+  <description>The oto_sensor package</description>
+  <maintainer email="abdullatif@todo.todo">abdullatif</maintainer>
+  <license>Apache 2.0</license>
+  <author >Abdullatif</author>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>dynamic_reconfigure</depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>python-opencv</exec_depend>
+  <exec_depend>python-numpy</exec_depend>
+  <exec_depend>python-enum34</exec_depend>
+  <exec_depend>python-pygame</exec_depend>
+</package>
