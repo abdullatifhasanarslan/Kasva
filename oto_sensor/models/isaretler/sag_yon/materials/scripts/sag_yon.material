@@ -1,0 +1,14 @@
+material sag_yon
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture sag_yon.png
+      }
+    }
+  }
+}
+

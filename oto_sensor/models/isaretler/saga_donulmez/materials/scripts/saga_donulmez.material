@@ -1,0 +1,14 @@
+material saga_donulmez
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture saga_donulmez.png
+      }
+    }
+  }
+}
+

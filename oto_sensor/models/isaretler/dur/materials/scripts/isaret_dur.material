@@ -1,0 +1,14 @@
+material isaret_dur
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture isaret_dur.png
+      }
+    }
+  }
+}
+

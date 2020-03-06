@@ -1,0 +1,14 @@
+material isaret_park_etmek_yasaktir
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture isaret_park_etmek_yasaktir.png
+      }
+    }
+  }
+}
+

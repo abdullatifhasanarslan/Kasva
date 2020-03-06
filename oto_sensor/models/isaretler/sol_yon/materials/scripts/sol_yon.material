@@ -1,0 +1,14 @@
+material sol_yon
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture sol_yon.png
+      }
+    }
+  }
+}
+

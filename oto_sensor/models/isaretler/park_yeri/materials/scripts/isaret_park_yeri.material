@@ -1,0 +1,14 @@
+material isaret_park_yeri
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture isaret_park_yeri.png
+      }
+    }
+  }
+}
+

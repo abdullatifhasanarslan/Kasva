@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="isaret_park_yeri">
+    <static>true</static>
+    <link name="box">
+      <pose>0 0 0 0 0 0</pose>
+      <collision name="collision">
+        <geometry>
+          <box>
+            <size>0.45 0.45 2</size>
+          </box>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <box>
+            <size>0.45 0.45 2</size>
+          </box>
+        </geometry>
+        <material>
+          <script>
+            <uri>model://turtlebot3_autorace/park_yeri/materials/scripts</uri>
+            <uri>model://turtlebot3_autorace/park_yeri/materials/textures</uri>
+            <name>isaret_park_yeri</name>
+          </script>
+        </material>
+      </visual>
+    </link>    
+  </model>
+</sdf>

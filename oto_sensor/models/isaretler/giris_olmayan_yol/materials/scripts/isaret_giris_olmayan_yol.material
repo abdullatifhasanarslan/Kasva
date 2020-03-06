@@ -1,0 +1,14 @@
+material isaret_giris_olmayan_yol
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture isaret_giris_olmayan_yol.png
+      }
+    }
+  }
+}
+

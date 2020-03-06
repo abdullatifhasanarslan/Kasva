@@ -1,0 +1,14 @@
+material ileri_sag_yon
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture ileri_sag_yon.png
+      }
+    }
+  }
+}
+

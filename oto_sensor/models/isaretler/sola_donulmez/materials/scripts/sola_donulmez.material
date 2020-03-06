@@ -1,0 +1,14 @@
+material sola_donulmez
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture sola_donulmez.png
+      }
+    }
+  }
+}
+

@@ -1,0 +1,14 @@
+material hiz_son_20
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture hiz_son_20.png
+      }
+    }
+  }
+}
+

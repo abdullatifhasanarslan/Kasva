@@ -1,0 +1,14 @@
+material course
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Parkur_Son_Beyaz.png
+      }
+    }
+  }
+}
+

@@ -1,0 +1,14 @@
+material azami_20
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture azami_20.png
+      }
+    }
+  }
+}
+

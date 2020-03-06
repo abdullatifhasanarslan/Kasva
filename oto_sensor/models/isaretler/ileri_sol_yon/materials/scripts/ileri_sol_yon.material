@@ -1,0 +1,15 @@
+
+material ileri_sol_yon
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture ileri_sol_yon.png
+      }
+    }
+  }
+}
+

@@ -1,0 +1,14 @@
+material isaret_durak
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture isaret_durak.png
+      }
+    }
+  }
+}
+
